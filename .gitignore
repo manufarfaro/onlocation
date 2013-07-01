@@ -2,7 +2,7 @@
 
 # Grails 2.2.3 admin-app ignored files.
 # web application files
-app/admin/onlocation/web-app/WEB-INF
+app/admin/onlocation/web-app/WEB-INF/*
 
 # IDE support files
 app/admin/onlocation/.classpath
@@ -23,8 +23,8 @@ app/admin/onlocation/prodDb.*
 
 # logs
 app/admin/onlocation/stacktrace.log
-app/admin/onlocation/test/reports
-app/admin/onlocation/logs
+app/admin/onlocation/test/reports/*
+app/admin/onlocation/logs/*
 
 # project release file
 app/admin/onlocation/*.war
@@ -33,12 +33,12 @@ app/admin/onlocation/*.war
 app/admin/onlocation/*.zip
 
 # older plugin install locations
-app/admin/onlocation/plugins
-app/admin/onlocation/web-app/plugins
-app/admin/onlocation/web-app/WEB-INF/classes
+app/admin/onlocation/plugins/*
+app/admin/onlocation/web-app/plugins/*
+app/admin/onlocation/web-app/WEB-INF/classes/*
 
 # "temporary" build files
-app/admin/onlocation/target
+app/admin/onlocation/target/*
 
 # other
 *.iws
