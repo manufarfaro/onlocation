@@ -2,44 +2,43 @@
 
 # Grails 2.2.3 admin-app ignored files.
 # web application files
-/app/admin/onlocation/web-app/WEB-INF
+app/admin/onlocation/web-app/WEB-INF
 
 # IDE support files
-/app/admin/onlocation/.classpath
-/app/admin/onlocation/.launch
-/app/admin/onlocation/.project
-/app/admin/onlocation/.settings
-/app/admin/onlocation/*.launch
-/app/admin/onlocation/*.tmproj
-/app/admin/onlocation/ivy*
-/app/admin/onlocation/eclipse
+app/admin/onlocation/.classpath
+app/admin/onlocation/.launch
+app/admin/onlocation/.project
+app/admin/onlocation/.settings
+app/admin/onlocation/*.launch
+app/admin/onlocation/*.tmproj
+app/admin/onlocation/ivy*
+app/admin/onlocation/eclipse
 
 # default HSQL database files for production mode
-/app/admin/onlocation/prodDb.*
+app/admin/onlocation/prodDb.*
 
 # general HSQL database files
 *Db.properties
 *Db.script
 
 # logs
-/app/admin/onlocation/stacktrace.log
-/app/admin/onlocation/test/reports
-/app/admin/onlocation/logs
+app/admin/onlocation/stacktrace.log
+app/admin/onlocation/test/reports
+app/admin/onlocation/logs
 
 # project release file
-/app/admin/onlocation/*.war
+app/admin/onlocation/*.war
 
 # plugin release file
-/app/admin/onlocation/*.zip
+app/admin/onlocation/*.zip
 
 # older plugin install locations
-/app/admin/onlocation/plugins
-/app/admin/onlocation/web-app/plugins
-/app/admin/onlocation/web-app/WEB-INF/classes
+app/admin/onlocation/plugins
+app/admin/onlocation/web-app/plugins
+app/admin/onlocation/web-app/WEB-INF/classes
 
 # "temporary" build files
-/app/admin/onlocation/target
+app/admin/onlocation/target
 
 # other
 *.iws
-
