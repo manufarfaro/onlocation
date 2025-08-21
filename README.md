@@ -1,6 +1,6 @@
 # OnLocation
 
- [![status: deprecated](https://img.shields.io/badge/status-deprecated-critical.svg)](https://github.com/manufarfaro/its-tasty)
+ [![status: deprecated](https://img.shields.io/badge/status-deprecated-critical.svg)](https://github.com/manufarfaro/onlocation)
 
 > [!WARNING]
 > This repository is deprecated and will be archived. No further maintenance or updates are planned.
